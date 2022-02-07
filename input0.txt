@@ -1,0 +1,6 @@
+var
+  a, b: integer;
+begin
+  a:=23;b:=42;
+end.
+
