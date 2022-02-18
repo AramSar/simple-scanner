@@ -1,19 +1,18 @@
 var
-a
+a: Identifier
 ,
-b
+b: Identifier
 :
 integer
 ;
 begin
-a
+a: Identifier
 :=
-23
+23: Number
 ;
-b
+b: Identifier
 :=
-42
+42: Number
 ;
 end
 .
-
